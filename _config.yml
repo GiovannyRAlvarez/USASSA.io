@@ -1,10 +1,5 @@
 title: U.S. Aid to Security Sector Actors
-description: A comprehensive, global tracking of unclassified U.S. security assistance from 2000 to 2026 (Q1). By <strong><a href="https://plsullivan.web.unc.edu/" target="_blank"; font-weight: bold;">Patricia Sullivan</a></strong> & <strong><a href="https://giovannyralvarez.github.io/" target="_blank"; font-weight: bold;">Giovanny Alvarez</a></strong></span> 
-theme: jekyll-theme-cayman
-navigation:
-  - title: Home
-    url: /
-  - title: Dataset Versions
+description: A comprehensive, global tracking of unclassified U.S. security assistance from 2000 to 2026 (Q1). By <strong> <a href="https://plsullivan.web.unc.edu/" target="_blank">Patricia Sullivan</a> & <a href="https://giovannyralvarez.github.io/" target="_blank">Giovanny Alvarez</a></strong>.
     url: /dataset.html
   - title: Publications
     url: /papers.html
