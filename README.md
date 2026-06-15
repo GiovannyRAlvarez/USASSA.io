@@ -1,6 +1,6 @@
 # U.S. Aid to Security Sector Actors (USASSA) Dataset
 
-![USASSA Global Network Map](assets/header.png)
+![USASSA Global Network Map](Code_Generated_Image.png)
 
 ****THIS PAGE IS UNDER CONSTRUCTION*****
 Welcome to the official repository for the **USASSA Dataset**. This project provides a systematic, global tracking of unclassified U.S. security assistance from 2000 through May 2026[cite: 1]. Developed via a collaboration between academic researchers and the Security Assistance Monitor (SAM), the dataset consolidates qualitative line-item notifications into mutually exclusive, exhaustive typologies of aid type and recipient type[cite: 1].
