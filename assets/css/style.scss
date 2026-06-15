@@ -1,11 +1,6 @@
----
----
-
-// 1. Define your custom color variables FIRST
-$section-header-bg-gradient: linear-gradient(135deg, #0f172a, #0d9488); // Dark Navy to Teal
+$section-header-bg-gradient: linear-gradient(135deg, #1c1917, #991b1b); // Charcoal to Crimson
 $section-header-text-color: #ffffff;
-$brand-color: #0d9488; // Primary buttons/links (Teal)
-$link-color: #0f172a;  // Secondary body links (Blue)
+$brand-color: #ef4444; // Crimson buttons
+$link-color: #b91c1c;  // Crimson links
 
-// 2. Import the default Cayman theme styles to apply your variables
 @import "{{ site.theme }}";
