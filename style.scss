@@ -1,9 +1,12 @@
 ---
 ---
 
-$section-header-bg-gradient: linear-gradient(135deg, #1c1917, #991b1b); // Charcoal to Crimson
-$section-header-text-color: #ffffff;
-$brand-color: #ef4444; // Crimson buttons
-$link-color: #b91c1c;  // Crimson links
+// 1. Define your custom Deep Navy & Dark Teal variables FIRST
+$section-header-bg-gradient: linear-gradient(135deg, #090d16, #042f2e); // Ultra-Deep Navy to Rich Dark Teal
+$section-header-text-color: #ffffff;                                    // Crisp white header text
+$section-header-link-color: #38bdf8;                                    // Sky blue links inside header
+$brand-color: #0f766e;                                                  // Deep teal for buttons and primary accents
+$link-color: #0369a1;                                                   // Ocean blue for standard body hypertext links
 
+// 2. Import the default Cayman theme styles to apply your overrides
 @import "{{ site.theme }}";
